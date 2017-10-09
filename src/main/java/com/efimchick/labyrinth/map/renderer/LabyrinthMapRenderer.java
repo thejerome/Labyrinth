@@ -1,7 +1,6 @@
-package com.efimchick.labyrinth.map;
+package com.efimchick.labyrinth.map.renderer;
 
 import com.efimchick.labyrinth.map.LabyrinthMap;
-import com.efimchick.labyrinth.map.position.Coordinate;
 
 /**
  * Created by Evgenii_Efimchik on 02-Oct-17.
